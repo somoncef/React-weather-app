@@ -1,0 +1,15 @@
+.card {
+  width: 25rem;
+  padding: 20px;
+  border: 2px solid #000;
+  border-radius: 8px;
+  background-color: rgb(216, 127, 63);
+  font-size: small;
+}
+.app-container {
+  display: flex;
+  justify-content: center; /* Center the content horizontally */
+  align-items: center; /* Center the content vertically */
+  height: 100vh; /* Set the height of the container to the full viewport height */
+}
+
